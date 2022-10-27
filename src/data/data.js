@@ -1,7 +1,7 @@
 export const data = [
     {
       id: 1,
-      name: 'Double Cheeseburger',
+      name: 'Cheese burger',
       category: 'burger',
       image:
         '../../assets/images/burgger-1.jpg',
