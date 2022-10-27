@@ -13,7 +13,7 @@ const Hero = () => {
             <span className="text-orange-500">Foods </span>Delivered
           </h1>
         </div>
-        <img className="w-full max-h-[500px] object-cover" src="../../public/assets/images/hero.jpg" alt="hero" />
+        <img className="w-full max-h-[500px] object-cover" src="../../assets/images/hero.jpg" alt="hero" />
       </div>
     </div>
   );
