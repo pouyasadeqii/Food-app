@@ -4,7 +4,7 @@ export const data = [
       name: 'Double Cheeseburger',
       category: 'burger',
       image:
-        '../../public/assets/images/burgger-1.jpg',
+        '../../assets/images/burgger-1.jpg',
       price: '$$$$',
     },
     {
@@ -12,7 +12,7 @@ export const data = [
       name: 'Bacon Cheeseburger',
       category: 'burger',
       image:
-        '../../public/assets/images/burgger-2.jpg',
+        '../../assets/images/burgger-2.jpg',
       price: '$',
     },
     {
@@ -20,7 +20,7 @@ export const data = [
       name: 'Mushroom Burger',
       category: 'burger',
       image:
-        '../../public/assets/images/burgger-3.jpg',
+        '../../assets/images/burgger-3.jpg',
       price: '$$',
     },
     {
@@ -28,7 +28,7 @@ export const data = [
       name: 'Loaded Burger',
       category: 'burger',
       image:
-        '../../public/assets/images/burgger-4.jpg',
+        '../../assets/images/burgger-4.jpg',
       price: '$$$',
     },
     {
@@ -36,7 +36,7 @@ export const data = [
       name: 'Feta & Spinnach',
       category: 'pizza',
       image:
-        '../../public/assets/images/pizza-1.jpg',
+        '../../assets/images/pizza-1.jpg',
       price: '$$',
     },
     {
@@ -44,7 +44,7 @@ export const data = [
       name: 'Supreme Pizza',
       category: 'pizza',
       image:
-        '../../public/assets/images/pizza-2.jpg',
+        '../../assets/images/pizza-2.jpg',
       price: '$$$',
     },
     {
@@ -52,7 +52,7 @@ export const data = [
       name: 'Meat Lovers',
       category: 'pizza',
       image:
-        '../../public/assets/images/pizza-3.jpg',
+        '../../assets/images/pizza-3.jpg',
       price: '$$$$',
     },
     {
@@ -60,7 +60,7 @@ export const data = [
       name: 'Cheese Pizza',
       category: 'pizza',
       image:
-        '../../public/assets/images/pizza-4.jpg',
+        '../../assets/images/pizza-4.jpg',
       price: '$',
     },
     {
@@ -68,7 +68,7 @@ export const data = [
       name: 'Kale Salad',
       category: 'salad',
       image:
-        '../../public/assets/images/salad-1.jpg',
+        '../../assets/images/salad-1.jpg',
       price: '$$',
     },
     {
@@ -76,7 +76,7 @@ export const data = [
       name: 'Ceasar Salad',
       category: 'salad',
       image:
-        '../../public/assets/images/salad-2.jpg',
+        '../../assets/images/salad-2.jpg',
       price: '$$$',
     },
     {
@@ -84,7 +84,7 @@ export const data = [
       name: 'Loaded Salad',
       category: 'salad',
       image:
-        '../../public/assets/images/salad-3.jpg',
+        '../../assets/images/salad-3.jpg',
       price: '$$$$',
     },
     {
@@ -92,7 +92,7 @@ export const data = [
       name: 'Fruit Salad',
       category: 'salad',
       image:
-        '../../public/assets/images/salad-4.jpg',
+        '../../assets/images/salad-4.jpg',
       price: '$',
     },
     {
@@ -100,7 +100,7 @@ export const data = [
       name: 'Wings',
       category: 'chicken',
       image:
-        '../../public/assets/images/chicken-1.jpg',
+        '../../assets/images/chicken-1.jpg',
       price: '$$',
     },
     {
@@ -108,7 +108,7 @@ export const data = [
       name: 'Baked Chicken',
       category: 'chicken',
       image:
-        '../../public/assets/images/chicken-2.jpg',
+        '../../assets/images/chicken-2.jpg',
       price: '$$$$',
     },
     {
@@ -116,7 +116,7 @@ export const data = [
       name: 'Chicken Tenders',
       category: 'chicken',
       image:
-        '../../public/assets/images/chicken-3.jpg',
+        '../../assets/images/chicken-3.jpg',
       price: '$',
     },
     {
@@ -124,7 +124,7 @@ export const data = [
       name: 'Chicken Kabob',
       category: 'chicken',
       image:
-        '../../public/assets/images/chicken-4.jpg',
+        '../../assets/images/chicken-4.jpg',
       price: '$$$',
     },
   ];
