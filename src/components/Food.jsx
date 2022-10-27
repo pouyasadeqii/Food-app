@@ -116,7 +116,7 @@ const Food = () => {
               className="w-full h-[200px] object-cover "
             />
             <div className="flex justify-between px-3 py-4">
-              <p className="font-bold">{item.name}</p>
+              <p className="font-bold text-sm">{item.name}</p>
               <p>
                 <span className="bg-orange-500 text-white p-2 rounded-full">
                   {item.price}
