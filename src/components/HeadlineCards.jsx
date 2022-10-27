@@ -13,7 +13,7 @@ const HeadlineCards = () => {
             Order Now
           </button>
         </div>
-        <img className="max-h-[160px] md:max-h-[200px] w-full object-cover" src="../../public/assets/images/sun.jpg" alt="sun's out" />
+        <img className="max-h-[160px] md:max-h-[200px] w-full object-cover" src="../../assets/images/sun.jpg" alt="sun's out" />
       </div>
       {/* card */}
       <div className="rounded-xl relative overflow-hidden shadow-md hover:scale-95 duration-300">
@@ -25,7 +25,7 @@ const HeadlineCards = () => {
             Order Now
           </button>
         </div>
-        <img className="max-h-[160px] md:max-h-[200px] w-full object-cover" src="../../public/assets/images/deliver.jpg" alt="sun's out" />
+        <img className="max-h-[160px] md:max-h-[200px] w-full object-cover" src="../../assets/images/deliver.jpg" alt="sun's out" />
       </div>
       {/* card */}
       <div className="rounded-xl relative overflow-hidden shadow-md hover:scale-95 duration-300">
@@ -37,7 +37,7 @@ const HeadlineCards = () => {
             Order Now
           </button>
         </div>
-        <img className="max-h-[160px] md:max-h-[200px] w-full object-cover" src="../../public/assets/images/New.jpg" alt="sun's out" />
+        <img className="max-h-[160px] md:max-h-[200px] w-full object-cover" src="../../assets/images/New.jpg" alt="sun's out" />
       </div>
     </div>
   );
