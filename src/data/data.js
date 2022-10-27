@@ -4,7 +4,7 @@ export const data = [
       name: 'Double Cheeseburger',
       category: 'burger',
       image:
-        '/public/assets/images/burgger-1.jpg',
+        '../../public/assets/images/burgger-1.jpg',
       price: '$$$$',
     },
     {
